@@ -1,0 +1,5 @@
+- Ngôn ngữ lập trình và thư viện cần cài đặt 
+- Python 3.12.5
+- selenium
+- BeautifulSoup4
+- pandas
